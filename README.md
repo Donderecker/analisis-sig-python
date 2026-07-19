@@ -15,7 +15,7 @@ En este apartado se detalla el tratamiento de datos raster provenientes del sens
 
 ### Visualización de Resultados Ráster | *Sentinel-2 Spectral Bands and Environmental Indices*
 
-![Sentinel-2 Spectral Bands and Environmental Indices](Sentinel-2%20Spectral%20Bands%20and%20Environmental%20Indices.jpg)
+![Sentinel-2 Spectral Bands and Environmental Indices](images/Sentinel-2%20Spectral%20Bands%20and%20Environmental%20Indices.jpg)
 
 ---
 
@@ -26,17 +26,17 @@ Evaluación del rendimiento, consistencia y correlación entre dos tecnologías 
 ### A. Evolución Temporal de las Mediciones | *Thermal Sensor Time Series*
 Registro continuo minuto a minuto que permite contrastar directamente el comportamiento de las curvas térmicas capturadas por los cuatro sensores.
 
-![Thermal Sensor Time Series](Thermal%20Sensor%20Time%20Series.png)
+![Thermal Sensor Time Series](images/Thermal%20Sensor%20Time%20Series.png)
 
 ### B. Distribución de Frecuencia (Sensor Arduino 1) | *Temperature Frequency Distribution*
 Histograma detallado para evaluar la densidad, el rango de variación térmica y la concentración de lecturas específicas en el dispositivo.
 
-![Temperature Frequency Distribution](Temperature%20Frequency%20Distribution.png)
+![Temperature Frequency Distribution](images/Temperature%20Frequency%20Distribution.png)
 
 ### C. Dispersión General y Análisis de Cuartiles | *Temperature Distribution Boxplot*
 Gráfico de cajas (Boxplot) para comparar estadísticamente la mediana, los límites y la presencia de asimetrías de todos los dispositivos de manera simultánea.
 
-![Temperature Distribution Boxplot](Temperature%20Distribution%20Boxplot.png)
+![Temperature Distribution Boxplot](images/Temperature%20Distribution%20Boxplot.png)
 
 ---
 
