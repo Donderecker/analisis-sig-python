@@ -26,17 +26,17 @@ Evaluación del rendimiento, consistencia y correlación entre dos tecnologías 
 ### A. Evolución Temporal de las Mediciones | *Thermal Sensor Time Series*
 Registro continuo minuto a minuto que permite contrastar directamente el comportamiento de las curvas térmicas capturadas por los cuatro sensores.
 
-![Thermal Sensor Time Series](image_bf8b04.jpg)
+![Thermal Sensor Time Series](Thermal%20Sensor%20Time%20Series.png)
 
 ### B. Distribución de Frecuencia (Sensor Arduino 1) | *Temperature Frequency Distribution*
 Histograma detallado para evaluar la densidad, el rango de variación térmica y la concentración de lecturas específicas en el dispositivo.
 
-![Temperature Frequency Distribution](image_bf8b2b.png)
+![Temperature Frequency Distribution](Temperature%20Frequency%20Distribution.png)
 
 ### C. Dispersión General y Análisis de Cuartiles | *Temperature Distribution Boxplot*
 Gráfico de cajas (Boxplot) para comparar estadísticamente la mediana, los límites y la presencia de asimetrías de todos los dispositivos de manera simultánea.
 
-![Temperature Distribution Boxplot](image_bf8b60.png)
+![Temperature Distribution Boxplot](Temperature%20Distribution%20Boxplot.png)
 
 ---
 
